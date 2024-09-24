@@ -135,6 +135,17 @@
   align-items: center;
   text-align: center;
 }
+.holiday-title {
+  font-size: 20px;
+  margin: 0;
+}
+.holidays {
+  color: red;
+}
+.sale-text {
+  font-size: 50px;
+  margin: 0;
+}
 .img-container {
   position: relative;
 }
